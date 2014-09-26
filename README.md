@@ -1,7 +1,12 @@
-cordova-statusTap
+iOS 8:
+=================
+Deprecated - this plugin no longer works in iOS 8. We have discovered that it works out of the box in iOS 8.
+
+
+iOS 7:
 =================
 
-Capture tap events on the status bar.
+cordova-statusTap plugin capture tap events on the status bar.
 
 This plugin is aimed at libraries like Sencha for users who want to execute custom code like scrolling their list views on status tap.
 
